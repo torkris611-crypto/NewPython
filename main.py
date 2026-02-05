@@ -5,6 +5,9 @@ def print_hi(name):
     b = 2
     res = a + b
     print(res)
+    div = b / a
+
+
 
 
 
