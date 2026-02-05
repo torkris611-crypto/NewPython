@@ -11,8 +11,5 @@ def print_hi(name):
     # что то
 
 
-
-
-
 if __name__ == '__main__':
     print_hi('PyCharm')
