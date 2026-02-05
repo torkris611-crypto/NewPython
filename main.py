@@ -7,6 +7,8 @@ def print_hi(name):
     print(res)
     div = b / a
     # интересно, что теперь делать?
+    print(f"div = {div}")
+    # что то
 
 
 
